@@ -241,7 +241,8 @@ nav ul li a:hover {
     min-height: 80vh;
     display: flex;
     align-items: center;
-    padding: var(--space-8xl) 0 var(--space-8xl) 0; /* Add bottom padding */
+    padding: var(--space-8xl) 0 var(--space-8xl) 0; 
+    
 }
 
 .hero-tech-stack {
@@ -1050,12 +1051,23 @@ h1 {
         text-align: left;
         font-display: swap;
     }
-    
+    .hero {
+        padding-bottom: 0px;
+    }
     .hero-text p {
         font-size: var(--font-6);
         text-align: left;
     }
-    
+    .social-links {
+        justify-content: center;
+        margin-top: var(--space-2xl);
+        
+    }
+    .hero-tech-stack {
+        margin-top: 0px;
+        padding-top: 10px;
+       
+    }
     .tech-icons {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -1082,6 +1094,7 @@ h1 {
     
     .about {
         padding: var(--space-6xl) 0;
+       
     }
     
     .section-title {
