@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davidguti.dev/sitemap.xml
