@@ -1,0 +1,356 @@
+      <!-- End Free Shipping -->
+                    <table style="background-color: #ffffff; font-size: 20px; color: #ffffff; padding-top: 8px; padding-bottom: 8px; text-align: center;" align="center" cellpadding="0" cellspacing="0" border="0" width="600" class="width100" role="presentation">
+                        <tr>
+                            <td>
+                                <table align="center" cellpadding="0" cellspacing="10" border="0" width="100%" style="background-color: #fafbfc; text-align: center; padding-top: 8px; padding-bottom: 8px;" class="width100" role="presentation">
+                            <tr>
+                                <td align="center">
+                                    <h2 style="color: #60367c; text-align: center; margin: 0;">NEED A TASTE TEST?</h2>
+                                </td>
+                            </tr>
+                    </table>
+                    <table style="background-color: #ffffff; font-size: 20px; color: #ffffff; padding-top: 8px; padding-bottom: 8px; text-align: center;" align="center" cellpadding="0" cellspacing="0" border="0" width="600" class="width100" role="presentation">
+                        <tr>
+                            
+                            <td  style="text-decoration: none; color: #000000;">
+                                <img src="https://res.cloudinary.com/dgpsqpjix/image/upload/v1751331649/pvsg-seal3249687-2xr_ltbmlh.png" width="50%" alt="Cycle Gear" role="Coffee">
+                            </td>
+                            
+                        </tr>
+                    </table>
+                    <table style="background-color: #ffffff; font-size: 20px; color: #ffffff; padding-top: 8px; padding-bottom: 8px; text-align: center;" align="center" cellpadding="0" cellspacing="0" border="0" width="600" class="width100" role="presentation">
+                        <tr>
+                            <td>
+                                <table align="center" cellpadding="0" cellspacing="10" border="0" width="100%" style="background-color: #fafbfc; text-align: center; padding-top: 8px; padding-bottom: 8px;" class="width100" role="presentation">
+                            <tr>
+                                <td align="center">
+                                    <p style="color: #5f5f5f; text-align: left; margin: 0;">What if this product isn't for me? We don't want you to order anything that you aren't 100% happy with.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+                                    <p style="color:#5f5f5f; text-align: left; margin: 0;">Therefore, we have a 60 Day 100% money-back guarantee so if you aren't thrilled with your order just let us know and we'll refund you without any questions asked.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+                                    
+
+                                    <p style="color: #5f5f5f; text-align: left; margin: 0;">We are proud to have incredibly loyal customers who love our products and we're confident you will too. No matter what you are covered by our 100% money back guarantee if you aren't completely satisfied with any of our products.</p>
+                                </td>
+                            </tr>
+                    </table>
+                        <!-- End Cycle Gear Image -->
+
+
+             
+             
+             
+             
+                    <!-- Start Follow Us On Social Media -->
+            <table style="background-color: #26493e;" class="wrapper" cellpadding="0" cellspacing="0" border="0" align="center" width="100%" role="presentation">
+              <tr>
+                <td style="padding: 20px 0 20px 0">
+                  <!-- Section Title -->
+                  <table width="100%" style="background-color: #26493e;" cellpadding="0" cellspacing="0" border="0" role="presentation">
+                    <tr>
+                      <td style="font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: bold; color: #ffffff; padding-bottom: 0px; padding-left: 0px; text-align: center;">
+                        Follow Us On Social Media
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!--  Follow Us On Social Media -->
+
+            <!-- Start Social Media Icons -->
+            <table style="padding-top: 16px; padding-bottom: 16px; text-align: center; background-color: #26493e;" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" role="presentation">
+              <tr style="background-color: #26493e;">
+                <td align="center">
+                  <!-- Inner table to center the icons -->
+                  <table align="center" cellpadding="0" cellspacing="0" border="0" role="presentation">
+                    <tr>
+                      <td align="center">
+                        <a href="https://facebook.com" target="_blank">
+                          <img src="https://res.cloudinary.com/dgpsqpjix/image/upload/v1745865828/facebook_96_fhmpo9.png" alt="Facebook" style="width: 50px; height: auto; display: block;"/>
+                        </a>
+                      </td>
+                      <td align="center">
+                        <a href="https://instagram.com" target="_blank">
+                          <img src="https://res.cloudinary.com/dgpsqpjix/image/upload/v1745865835/instagram_96_xjqudu.png" alt="Instagram" style="width: 50px; height: auto; display: block"/>
+                        </a>
+                      </td>
+                      <td align="center">
+                        <a href="https://youtube.com" target="_blank">
+                          <img src="https://res.cloudinary.com/dgpsqpjix/image/upload/v1745865847/youtube_96_a1jxpc.png" alt="Youtube" style="width: 50px; height: auto; display: block"/>
+                        </a>
+                      </td>
+                      <td align="center">
+                        <a href="https://pinterest.com" target="_blank">
+                          <img src="https://res.cloudinary.com/dgpsqpjix/image/upload/v1745865840/pinterest_96_otydnr.png" alt="Pinterest" style="width: 50px; height: auto; display: block"/>
+                        </a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!-- End Social Media Icons -->
+          
+
+          <!-- Start Footer -->
+          <table align="center" cellpadding="0" cellspacing="0" border="0" width="100%" role="presentation" style="background-color:#26493e; padding: 20px">
+            <tr>
+                <td align="center" style="font-family: Arial, sans-serif; font-size: 16px; color: #ffffff; line-height: 24px;">
+                            No longer want to receive these emails?
+                        <a href="https://example.com/text" target="_blank" style="color: #ffffff; text-decoration: underline">
+                            Unsubscribe
+                        </a>
+            <br>
+            <br>
+
+                        52/11 Cycles<br />
+                        555 Emerald Ave<br />
+                        Carlsbad, CA 92008
+                </td>
+            </tr>
+
+        <tr>
+            <td align="center" style="padding-top: 20px; font-family: Arial, sans-serif; font-size: 16px; color: #ffffff; line-height: 24px;">
+            <a href="tel:18003333333" style="color: #ffffff; text-decoration: underline">
+                1(800) 333-3333</a>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" style="padding-top: 20px; font-family: Arial, sans-serif; font-size: 16px; color: #ffffff; line-height: 24px;">
+                    Want to text us your questions?
+                    <a href="https://example.com/text" target="_blank" style="color: #ffffff; text-decoration: underline">
+                    Click here!
+                    </a>
+            </td>
+        </tr>
+
+        <tr>
+            <td align="center" style="padding-top: 20px; font-family: Arial, sans-serif; font-size: 16px; color: #ffffff; line-height: 24px;">
+            Office Hours Mon–Fri 9am–5pm PST
+            </td>
+        </tr>
+    </table>
+    <!-- End Footer -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           <!-- Start MORE WE THINK YOU'D LOVE Section -->
+<table style="background-color: #ffffff; color: #ffffff;" align="center" cellpadding="0" cellspacing="0" border="0" width="600" class="width100" role="presentation">
+
+    <!-- Products Row 1 -->
+    <tr>
+        <td>
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" role="presentation">
+                <tr>
+                    <!-- Product 1 -->
+                    <td width="50%" valign="center" style="padding: 10px;">
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #ffffff;" role="presentation">
+                            <tr>
+                                <td align="center" style="padding: 10px;">
+                                    <a href="https://paleovalley.com/store/essential-electrolytes?_gl=1*76to8l*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw64jDBhDXARIsABkk8J498jkYNtAuyE_8aeGlHLqAcgnf9idF32gaX62keuUP5ehp6IBUocAaAqSLEALw_wcB&gbraid=0AAAAADn0VVNS8Uayne5rRGZWcYbe-TkOi" target="_blank">
+                                        <img src="https://res.cloudinary.com/dgpsqpjix/image/upload/v1751330413/pdpcsl-ee-5_d1qa3z.jpg" width="100%" style="max-width: 250px; display: block;" alt="Organic Coffee">
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 10px; color: #000000;">
+                                    <p style="margin: 0; font-size: 16px;">ESSENTIAL ELECTROLYTES</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 15px 10px;">
+                                    <table cellpadding="0" cellspacing="0" border="0" role="presentation">
+                                        <tr>
+                                            <td style="background-color: #81b536; border-radius: 5px;">
+                                                <a href="https://paleovalley.com/store/essential-electrolytes?_gl=1*76to8l*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw64jDBhDXARIsABkk8J498jkYNtAuyE_8aeGlHLqAcgnf9idF32gaX62keuUP5ehp6IBUocAaAqSLEALw_wcB&gbraid=0AAAAADn0VVNS8Uayne5rRGZWcYbe-TkOi" target="_blank" style="display: inline-block; padding: 12px 24px; color: #ffffff; text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">
+                                                    LEARN MORE
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+
+                    <!-- Product 2 -->
+                    <td width="50%" valign="center" style="padding: 10px;">
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #ffffff;" role="presentation">
+                            <tr>
+                                <td align="center" style="padding: 10px;">
+                                    <a href="https://paleovalley.com/store/superfood-golden-milk?_gl=1*ucexvo*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw64jDBhDXARIsABkk8J498jkYNtAuyE_8aeGlHLqAcgnf9idF32gaX62keuUP5ehp6IBUocAaAqSLEALw_wcB&gbraid=0AAAAADn0VVNS8Uayne5rRGZWcYbe-TkOi" target="_blank">
+                                        <img src="https://res.cloudinary.com/dgpsqpjix/image/upload/v1751324240/pdpcsl-sgm-1-th_u77uxe.jpg" width="100%" style="max-width: 250px; display: block;" alt="Superfood Golden Milk">
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 10px; color: #000000;">
+                                    <p style="margin: 0; font-size: 16px;">SUPERFOOD GOLDEN MILK</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 15px 10px;">
+                                    <table cellpadding="0" cellspacing="0" border="0" role="presentation">
+                                        <tr>
+                                            <td style="background-color: #81b536; border-radius: 5px;">
+                                                <a href="https://paleovalley.com/store/superfood-golden-milk?_gl=1*ucexvo*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw64jDBhDXARIsABkk8J498jkYNtAuyE_8aeGlHLqAcgnf9idF32gaX62keuUP5ehp6IBUocAaAqSLEALw_wcB&gbraid=0AAAAADn0VVNS8Uayne5rRGZWcYbe-TkOi" target="_blank" style="display: inline-block; padding: 12px 24px; color: #ffffff; text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">
+                                                    LEARN MORE
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    
+    <!-- Products Row 2 -->
+    <tr>
+        <td>
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" role="presentation">
+                <tr>
+                    <!-- Product 3 -->
+                    <td width="50%" valign="center" style="padding: 10px;">
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #ffffff;" role="presentation">
+                            <tr>
+                                <td align="center" style="padding: 10px;">
+                                    <a href="https://paleovalley.com/store/grass-fed-beef-tallow?_gl=1*1fte1cs*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw64jDBhDXARIsABkk8J498jkYNtAuyE_8aeGlHLqAcgnf9idF32gaX62keuUP5ehp6IBUocAaAqSLEALw_wcB&gbraid=0AAAAADn0VVNS8Uayne5rRGZWcYbe-TkOi" target="_blank">
+                                        <img src="https://res.cloudinary.com/dgpsqpjix/image/upload/v1751322818/pvhomenew-tallow_o71hiu.jpg" width="100%" style="max-width: 250px; display: block;" alt="Grass Fed Beef Tallow">
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 10px; color: #000000;">
+                                    <p style="margin: 0; font-size: 16px;">GRASS FED BEEF TALLOW</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 15px 10px;">
+                                    <table cellpadding="0" cellspacing="0" border="0" role="presentation">
+                                        <tr>
+                                            <td style="background-color: #81b536; border-radius: 5px;">
+                                                <a href="https://paleovalley.com/store/grass-fed-beef-tallow?_gl=1*1fte1cs*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw64jDBhDXARIsABkk8J498jkYNtAuyE_8aeGlHLqAcgnf9idF32gaX62keuUP5ehp6IBUocAaAqSLEALw_wcB&gbraid=0AAAAADn0VVNS8Uayne5rRGZWcYbe-TkOi" target="_blank" style="display: inline-block; padding: 12px 24px; color: #ffffff; text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">
+                                                    LEARN MORE
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    
+                    <!-- Product 4 -->
+                    <td width="50%" valign="center" style="padding: 10px;">
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #ffffff;" role="presentation">
+                            <tr>
+                                <td align="center" style="padding: 10px;">
+                                    <a href="https://paleovalley.com/store/grass-fed-venison-sticks?_gl=1*x5hgbk*_up*MQ..&gclid=Cj0KCQjw64jDBhDXARIsABkk8J498jkYNtAuyE_8aeGlHLqAcgnf9idF32gaX62keuUP5ehp6IBUocAaAqSLEALw_wcB&gbraid=0AAAAADn0VVNS8Uayne5rRGZWcYbe-TkOi" target="_blank">
+                                        <img src="https://res.cloudinary.com/dgpsqpjix/image/upload/v1751322774/homepage-pv-venison_z1kdik.jpg" width="100%" style="max-width: 250px; display: block;" alt="Grass Fed Venison Sticks">
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 10px; color: #000000;">
+                                    <p style="margin: 0; font-size: 16px;">GRASS FED VENISON STICKS </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 15px 10px;">
+                                    <table cellpadding="0" cellspacing="0" border="0" role="presentation">
+                                        <tr>
+                                            <td style="background-color: #81b536; border-radius: 5px;">
+                                                <a href="https://paleovalley.com/store/grass-fed-venison-sticks?_gl=1*x5hgbk*_up*MQ..&gclid=Cj0KCQjw64jDBhDXARIsABkk8J498jkYNtAuyE_8aeGlHLqAcgnf9idF32gaX62keuUP5ehp6IBUocAaAqSLEALw_wcB&gbraid=0AAAAADn0VVNS8Uayne5rRGZWcYbe-TkOi" target="_blank" style="display: inline-block; padding: 12px 24px; color: #ffffff; text-decoration: none; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">
+                                                    LEARN MORE
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+</table>
+
+<!-- Start Free Shipping -->
+                        
+                        <!-- End Free Shipping -->
+                    <table style="background-color: #ffffff; font-size: 20px; color: #ffffff; padding-top: 8px; padding-bottom: 8px; text-align: center;" align="center" cellpadding="0" cellspacing="0" border="0" width="600" class="width100" role="presentation">
+                        <tr>
+                            <td>
+                                <table align="center" cellpadding="0" cellspacing="10" border="0" width="100%" style="background-color: #fafbfc; text-align: center; padding-top: 8px; padding-bottom: 8px;" class="width100" role="presentation">
+                            <tr>
+                                <td align="center">
+                                    <h2 style="color: #60367c; text-align: center; margin: 0;">NEED A TASTE TEST?</h2>
+                                </td>
+                            </tr>
+                    </table>
+                    <table style="background-color: #ffffff; font-size: 20px; color: #ffffff; padding-top: 8px; padding-bottom: 8px; text-align: center;" align="center" cellpadding="0" cellspacing="0" border="0" width="600" class="width100" role="presentation">
+                        <tr>
+                            
+                            <td  style="text-decoration: none; color: #000000;">
+                                <img src="https://res.cloudinary.com/dgpsqpjix/image/upload/v1751331649/pvsg-seal3249687-2xr_ltbmlh.png" width="50%" alt="Cycle Gear" role="Coffee">
+                            </td>
+                            
+                        </tr>
+                    </table>
+                    <table style="background-color: #ffffff; font-size: 20px; color: #ffffff; padding-top: 8px; padding-bottom: 8px; text-align: center;" align="center" cellpadding="0" cellspacing="0" border="0" width="600" class="width100" role="presentation">
+                        <tr>
+                            <td>
+                                <table align="center" cellpadding="0" cellspacing="10" border="0" width="100%" style="background-color: #fafbfc; text-align: center; padding-top: 8px; padding-bottom: 8px;" class="width100" role="presentation">
+                            <tr>
+                                <td align="center">
+                                    <p style="color: #5f5f5f; text-align: left; margin: 0;">What if this product isn't for me? We don't want you to order anything that you aren't 100% happy with.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+                                    <p style="color:#5f5f5f; text-align: left; margin: 0;">Therefore, we have a 60 Day 100% money-back guarantee so if you aren't thrilled with your order just let us know and we'll refund you without any questions asked.</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+                                    
+
+                                    <p style="color: #5f5f5f; text-align: left; margin: 0;">We are proud to have incredibly loyal customers who love our products and we're confident you will too. No matter what you are covered by our 100% money back guarantee if you aren't completely satisfied with any of our products.</p>
+                                </td>
+                            </tr>
+                    </table>
+                        <!-- End Cycle Gear Image -->
+
+
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>

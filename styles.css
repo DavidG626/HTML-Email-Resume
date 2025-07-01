@@ -490,11 +490,12 @@ h1 {
 .section-heading {
     text-align: center;
     margin-bottom: var(--space-6xl);
+    
 }
 
 .section-subtitle {
-    color: var(--accent-color);
-    font-size: var(--font-10);
+   
+    font-size: var(--font-16);
     font-weight: 600;
     letter-spacing: 0.0625rem;
     display: block;
@@ -502,7 +503,7 @@ h1 {
 }
 
 .section-heading h3 {
-    font-size: var(--font-15);
+    font-size: var(--font-14);
     font-weight: 700;
     color: var(--primary-color);
 }
